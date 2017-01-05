@@ -1,0 +1,18 @@
+
+		#sig-canvas {
+			border: 2px dotted #CCCCCC;
+			border-radius: 5px;
+			cursor: crosshair;
+            background: #fff;
+    
+		}
+#sig-image {
+    background: #fff;
+    width: 90%;
+}
+
+ion-content {
+    background: #FFB74D;
+    text-align: center;
+    
+}
